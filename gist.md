@@ -11,6 +11,7 @@ Each component of this regex has a unique responsibility to make sure that a use
 
 ## Table of Contents
 
+- [Regex Components](#regex-components)
 - [Anchors](#anchors)
 - [Quantifiers](#quantifiers)
 - [Grouping Constructs](#grouping-constructs)
